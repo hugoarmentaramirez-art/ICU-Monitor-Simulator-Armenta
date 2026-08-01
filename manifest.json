@@ -4,7 +4,7 @@
   "description": "Simulador de monitor de UCI para práctica de terapia intensiva, con conexión en tiempo real entre profesor y alumno.",
   "start_url": "./index.html",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "any",
   "background_color": "#030703",
   "theme_color": "#00e676",
