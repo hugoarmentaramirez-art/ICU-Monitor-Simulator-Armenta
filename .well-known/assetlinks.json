@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hugoarmentaramirez_art.icusim",
+      "sha256_cert_fingerprints":
+        ["E4:3D:27:7D:10:2E:26:09:80:1E:68:6F:53:3C:1F:1B:1E:C4:C5:85:6A:98:9D:5D:9B:28:AC:93:CF:EA:86:D0"]
+    }
+  }
+]
